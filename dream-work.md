@@ -2,7 +2,9 @@
 
 ## Precious Treasures: Feel, Create, Enjoy.
 
-Every city has his own authentic style.
+Every city has ~~his~~ **its** own authentic style.
+В английском языке от грамматической категории рода остались рожки да ножки. "his" и прочие обладающие родом местоимения употребляются только по отношению к людям (в редких случаях — к "одушевлённым" предметам вроде винтовки или корабля), мимо пролетают даже младенцы и собаки.
+
 I am guide hedonist: in every trip I'm looking for treasures - people, places, events.
 I choose the rarest and the most stylish ones. 
 When you travel with me, you feel every minute, every step, drink the flavor, taste and color of the city.
