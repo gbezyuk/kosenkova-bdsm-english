@@ -43,7 +43,9 @@ And as I am personal stylist, there are resourse**s** in ~~mine~~ **me** helping
 As a professional personal stylist, I'm capable of helping you to find something special,
 "Будучи профессиональным персональным стилистом, я способна помочь вам найти нечто особенное" — нам архаично, а англичанам в самый раз.
 
-that reflect the style of the city, pass it throug your feelings and add it to your personal style.
+that reflect**s** the style of the city, pass it throug**h** your feelings and add it to your personal style.
+"something special" — единственное число третьего лица, согласованному глаголу снова требуется "-s" на конце. В остальном неплохо.
+
 One may inspire the generosity in Vienna, sensuality in Paris, splendor in Rome, modesty in Petersburg,
 convenience in Zurich, irony on London, creativity in Berlin, magic in Istanbul...
 Places we meet are not popular tourist's trails, but precious treasures. Treasures,
