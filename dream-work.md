@@ -24,10 +24,13 @@ Travelling with me, you'll be feeling every minute and every step, enjoying flav
 Сомневаюсь я, что англичане поймут кальку с нашего "поставить галочку". Само выражение у них, конечно, есть, но тут играет лёгкость перехода между частями речи в английском языке: вместо "поставить галочку" ("to put a tick") получается что-то вроде "галочкнуть": "to tick". Причём это переходной глагол, он требует дополнения.
 So, you don't tick places you visit.
 
-The trip include three directions:
-the Style (local brands, masters, boutiques, antique markets, book and design shops),
-the Art (architecture, theatres, opera, cinema festivals, museums)
-and the Rest (restaurants, jazz bars, SPA, golf). 
+The trip include**s** three directions:
+В третьем лице единственного числа почти все глаголы оканчиваются на "-s".
+
+* ~~the~~ Style (local brands, masters, boutiques, antique markets, book and design shops),
+* ~~the~~ Art (architecture, theatres, opera, cinema festivals, museums)
+* and the Rest (restaurants, jazz bars, SPA, golf).
+Тут небольшая дилемма: по-хорошему нужно либо трусы надеть, либо крестик снять. Ибо если мы делаем стиль именем собственным и пишем его с большой буквы, то автоматически становится ненужным определённый артикль. Хотя можно сослаться, что мы про имена собственные слыхом не слыхивали, и просто большой буквой хотели побольше пафоса нагнать, тогда сгодится.
 
 
 We will go to the places that reflect the mood and the character of the city.
