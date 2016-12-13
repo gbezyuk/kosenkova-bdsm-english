@@ -12,8 +12,14 @@ in every trip I'm looking for treasures - people, places, events.
 Здесь может быть лучше использовать более простую форму глагола: "in every trim I look for treasures", но это не точно — поймут тебя и так и так, а отличаться будут оттенки смысла: заостряешь ли ты внимание на процессе поиска, или нет.
 
 
-I choose the rarest and the most stylish ones. 
+I choose the rarest and the most stylish ones.
+
 When you travel with me, you feel every minute, every step, drink the flavor, taste and color of the city.
+Здесь может быть уместным замена вводного оборота деепричастием: "Travelling with me" — будет натуральнее, но это не ошибка — а вопрос вкуса.
+Скорее всего имелось в виду будущее время ("Путешествуя со мной вы будете чувствовать каждую минуту..."). Если это действительно так, стоит его и в английском использовать: "you'll feel ..." ("you will feel").
+Совсем уж вишенкой на торте будет как раз задать акцент на процессе при помощи причастий: "You'll be feeling every minute...", дословно — "Вы будете чувствующим каждую минуту". Итого может получиться (с парой дополнительных минорных правок):
+Travelling with me, you'll be feeling every minute and every step, enjoying flavours, tastes and colors of the city.
+
 (But you do not put a tick in the places you visit). 
 The trip include three directions:
 the Style (local brands, masters, boutiques, antique markets, book and design shops),
