@@ -20,7 +20,10 @@ When you travel with me, you feel every minute, every step, drink the flavor, ta
 Совсем уж вишенкой на торте будет как раз задать акцент на процессе при помощи причастий: "You'll be feeling every minute...", дословно — "Вы будете чувствующим каждую минуту". Итого может получиться (с парой дополнительных минорных правок):
 Travelling with me, you'll be feeling every minute and every step, enjoying flavours, tastes and colors of the city.
 
-(But you do not put a tick in the places you visit). 
+(But you do not put a tick in the places you visit).
+Сомневаюсь я, что англичане поймут кальку с нашего "поставить галочку". Само выражение у них, конечно, есть, но тут играет лёгкость перехода между частями речи в английском языке: вместо "поставить галочку" ("to put a tick") получается что-то вроде "галочкнуть": "to tick". Причём это переходной глагол, он требует дополнения.
+So, you don't tick places you visit.
+
 The trip include three directions:
 the Style (local brands, masters, boutiques, antique markets, book and design shops),
 the Art (architecture, theatres, opera, cinema festivals, museums)
