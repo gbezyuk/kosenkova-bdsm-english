@@ -37,7 +37,12 @@ We will go to the places that reflect the mood and the character of the city.
 И, может быть, лучше будет не "пойти в места", а "пройти по местам": "to walk through" вместо "to go to".
 We'll walk through the places reflecting the mood and the character of the city.
 
-And as I am personal stylist, there are resourse in mine helping you to find something special,
+And as I am personal stylist, there are resourse**s** in ~~mine~~ **me** helping you to find something special,
+Как минимум здесь нужно исправить рассогласованность членов предложения по числам и падежам (да, у личных местоимений в английском есть падежи).
+Но чтобы предложение звучало натуральнее, его придётся перефразировать в более личном варианте:
+As a professional personal stylist, I'm capable of helping you to find something special,
+"Будучи профессиональным персональным стилистом, я способна помочь вам найти нечто особенное" — нам архаично, а англичанам в самый раз.
+
 that reflect the style of the city, pass it throug your feelings and add it to your personal style.
 One may inspire the generosity in Vienna, sensuality in Paris, splendor in Rome, modesty in Petersburg,
 convenience in Zurich, irony on London, creativity in Berlin, magic in Istanbul...
