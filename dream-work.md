@@ -2,21 +2,56 @@
 
 ## Precious Treasures: Feel, Create, Enjoy.
 
-Every city has his own authentic style.
-I am guide hedonist: in every trip I'm looking for treasures - people, places, events.
-I choose the rarest and the most stylish ones. 
-When you travel with me, you feel every minute, every step, drink the flavor, taste and color of the city.
-(But you do not put a tick in the places you visit). 
-The trip include three directions:
-the Style (local brands, masters, boutiques, antique markets, book and design shops),
-the Art (architecture, theatres, opera, cinema festivals, museums)
-and the Rest (restaurants, jazz bars, SPA, golf). 
+Every city has ~~his~~ **its** own authentic style.
+В английском языке от грамматической категории рода остались рожки да ножки. "his" и прочие обладающие родом местоимения употребляются только по отношению к людям (в редких случаях — к "одушевлённым" предметам вроде винтовки или корабля), мимо пролетают даже младенцы и собаки.
 
+I am ~~guide hedonist~~ a hedonism guide:
+Во-первых, дурной привычкой английского является повсеместное использование артиклей - деваться некуда от них, приходится привыкать. "A" происходит от немецкого "ein", "один (какой-то)" — получается "I am one ...". Во-вторых, из немецкого же торчат корни у порядка слов. Немцы бы сказали что-то вроде "ein Hedonismusführer" — первый корень работает по отношению ко второму как прилагательное. В английском тоже получается так, и привычный русскому человеку порядок слов приходится выворачивать наизнанку. Ничего, со временем привыкаешь и даже радоваться начинаешь — удобно, на самом-то деле. Практически, если сказать "I am a guide hedonist" — получается "Я — гедонист по части гидов", а если "I am a hedonism guid" — "Я — гид по части гедонизма".
+
+in every trip I'm looking for treasures - people, places, events.
+Здесь может быть лучше использовать более простую форму глагола: "in every trim I look for treasures", но это не точно — поймут тебя и так и так, а отличаться будут оттенки смысла: заостряешь ли ты внимание на процессе поиска, или нет.
+
+
+I choose the rarest and the most stylish ones.
+
+When you travel with me, you feel every minute, every step, drink the flavor, taste and color of the city.
+Здесь может быть уместным замена вводного оборота деепричастием: "Travelling with me" — будет натуральнее, но это не ошибка — а вопрос вкуса.
+Скорее всего имелось в виду будущее время ("Путешествуя со мной вы будете чувствовать каждую минуту..."). Если это действительно так, стоит его и в английском использовать: "you'll feel ..." ("you will feel").
+Совсем уж вишенкой на торте будет как раз задать акцент на процессе при помощи причастий: "You'll be feeling every minute...", дословно — "Вы будете чувствующим каждую минуту". Итого может получиться (с парой дополнительных минорных правок):
+Travelling with me, you'll be feeling every minute and every step, enjoying flavours, tastes and colors of the city.
+
+(But you do not put a tick in the places you visit).
+Сомневаюсь я, что англичане поймут кальку с нашего "поставить галочку". Само выражение у них, конечно, есть, но тут играет лёгкость перехода между частями речи в английском языке: вместо "поставить галочку" ("to put a tick") получается что-то вроде "галочкнуть": "to tick". Причём это переходной глагол, он требует дополнения.
+So, you don't tick places you visit.
+
+The trip include**s** three directions:
+В третьем лице единственного числа почти все глаголы оканчиваются на "-s".
+
+* ~~the~~ Style (local brands, masters, boutiques, antique markets, book and design shops),
+* ~~the~~ Art (architecture, theatres, opera, cinema festivals, museums)
+* and the Rest (restaurants, jazz bars, SPA, golf).
+Тут небольшая дилемма: по-хорошему нужно либо трусы надеть, либо крестик снять. Ибо если мы делаем стиль именем собственным и пишем его с большой буквы, то автоматически становится ненужным определённый артикль. Хотя можно сослаться, что мы про имена собственные слыхом не слыхивали, и просто большой буквой хотели побольше пафоса нагнать, тогда сгодится.
 
 We will go to the places that reflect the mood and the character of the city.
-And as I am personal stylist, there are resourse in mine helping you to find something special,
-that reflect the style of the city, pass it throug your feelings and add it to your personal style.
-One may inspire the generosity in Vienna, sensuality in Paris, splendor in Rome, modesty in Petersburg,
-convenience in Zurich, irony on London, creativity in Berlin, magic in Istanbul...
-Places we meet are not popular tourist's trails, but precious treasures. Treasures,
-that help you open the treasure in your heart.
+Ошибок нет, но может быть более естесственным причастие "reflecting" вместо оборота "that reflect".
+И, может быть, лучше будет не "пойти в места", а "пройти по местам": "to walk through" вместо "to go to".
+We'll walk through the places reflecting the mood and the character of the city.
+
+And as I am personal stylist, there are resourse**s** in ~~mine~~ **me** helping you to find something special,
+Как минимум здесь нужно исправить рассогласованность членов предложения по числам и падежам (да, у личных местоимений в английском есть падежи).
+Но чтобы предложение звучало натуральнее, его придётся перефразировать в более личном варианте:
+As a professional personal stylist, I'm capable of helping you to find something special,
+"Будучи профессиональным персональным стилистом, я способна помочь вам найти нечто особенное" — нам архаично, а англичанам в самый раз.
+
+that reflect**s** the style of the city, pass it throug**h** your feelings and add it to your personal style.
+"something special" — единственное число третьего лица, согласованному глаголу снова требуется "-s" на конце. В остальном неплохо.
+
+One may **be** inspire*d* *by* the generosity ~~in~~ **of** Vienna, sensuality ~~in~~ **of** Paris, splendor ~~in~~ **of** Rome, modesty ~~in~~ **of** **St-**Petersburg, convenience ~~in~~ **of** Zurich, irony ~~on~~ **of** London, creativity ~~in~~ **of** Berlin, magic ~~in~~ **of** Istanbul...
+"To inspire" — вдохновлять. "Вдохновляться" ("вдохновлять себя") требует пассивного залога: "to be inspired", дословно — "быть вдохновлённым". Качества городов — не "в городах" ("in cities") а "относящиеся к городам" ("of cities").
+
+Places we meet are not popular tourist's trails, but precious treasures.
+
+Treasures, that **will** help you **to** open the treasure in your heart.
+Вероятно, имеется в виду будущее время (отсюда "will"), но может быть и нет — в настоящем времени можно было оставить и так.
+Что нужно сделать точно, так это указать форму инфинитива для глагола "открыть" — "to open", а не просто "open".
+Плюс, может быть стоило бы не "сокровище в сердце" упоминать, а "сокровище сердца" — "the treasure OF your heart", но опять же — это вкусовщина.
