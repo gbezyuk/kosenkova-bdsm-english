@@ -49,5 +49,9 @@ that reflect**s** the style of the city, pass it throug**h** your feelings and a
 One may **be** inspire*d* *by* the generosity ~~in~~ **of** Vienna, sensuality ~~in~~ **of** Paris, splendor ~~in~~ **of** Rome, modesty ~~in~~ **of** **St-**Petersburg, convenience ~~in~~ **of** Zurich, irony ~~on~~ **of** London, creativity ~~in~~ **of** Berlin, magic ~~in~~ **of** Istanbul...
 "To inspire" — вдохновлять. "Вдохновляться" ("вдохновлять себя") требует пассивного залога: "to be inspired", дословно — "быть вдохновлённым". Качества городов — не "в городах" ("in cities") а "относящиеся к городам" ("of cities").
 
-Places we meet are not popular tourist's trails, but precious treasures. Treasures,
-that help you open the treasure in your heart.
+Places we meet are not popular tourist's trails, but precious treasures.
+
+Treasures, that **will** help you **to** open the treasure in your heart.
+Вероятно, имеется в виду будущее время (отсюда "will"), но может быть и нет — в настоящем времени можно было оставить и так.
+Что нужно сделать точно, так это указать форму инфинитива для глагола "открыть" — "to open", а не просто "open".
+Плюс, может быть стоило бы не "сокровище в сердце" упоминать, а "сокровище сердца" — "the treasure OF your heart", но опять же — это вкусовщина.
