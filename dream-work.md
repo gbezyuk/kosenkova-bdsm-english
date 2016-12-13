@@ -46,7 +46,8 @@ As a professional personal stylist, I'm capable of helping you to find something
 that reflect**s** the style of the city, pass it throug**h** your feelings and add it to your personal style.
 "something special" — единственное число третьего лица, согласованному глаголу снова требуется "-s" на конце. В остальном неплохо.
 
-One may inspire the generosity in Vienna, sensuality in Paris, splendor in Rome, modesty in Petersburg,
-convenience in Zurich, irony on London, creativity in Berlin, magic in Istanbul...
+One may **be** inspire*d* *by* the generosity ~~in~~ **of** Vienna, sensuality ~~in~~ **of** Paris, splendor ~~in~~ **of** Rome, modesty ~~in~~ **of** **St-**Petersburg, convenience ~~in~~ **of** Zurich, irony ~~on~~ **of** London, creativity ~~in~~ **of** Berlin, magic ~~in~~ **of** Istanbul...
+"To inspire" — вдохновлять. "Вдохновляться" ("вдохновлять себя") требует пассивного залога: "to be inspired", дословно — "быть вдохновлённым". Качества городов — не "в городах" ("in cities") а "относящиеся к городам" ("of cities").
+
 Places we meet are not popular tourist's trails, but precious treasures. Treasures,
 that help you open the treasure in your heart.
