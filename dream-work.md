@@ -32,8 +32,11 @@ The trip include**s** three directions:
 * and the Rest (restaurants, jazz bars, SPA, golf).
 Тут небольшая дилемма: по-хорошему нужно либо трусы надеть, либо крестик снять. Ибо если мы делаем стиль именем собственным и пишем его с большой буквы, то автоматически становится ненужным определённый артикль. Хотя можно сослаться, что мы про имена собственные слыхом не слыхивали, и просто большой буквой хотели побольше пафоса нагнать, тогда сгодится.
 
-
 We will go to the places that reflect the mood and the character of the city.
+Ошибок нет, но может быть более естесственным причастие "reflecting" вместо оборота "that reflect".
+И, может быть, лучше будет не "пойти в места", а "пройти по местам": "to walk through" вместо "to go to".
+We'll walk through the places reflecting the mood and the character of the city.
+
 And as I am personal stylist, there are resourse in mine helping you to find something special,
 that reflect the style of the city, pass it throug your feelings and add it to your personal style.
 One may inspire the generosity in Vienna, sensuality in Paris, splendor in Rome, modesty in Petersburg,
